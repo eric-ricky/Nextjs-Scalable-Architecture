@@ -1,0 +1,20 @@
+.header {
+  background: #123456;
+  display: flex;
+  color: #fff;
+  padding: 1.125rem 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.425rem;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+
+.menu {
+  display: flex;
+  gap: 1rem;
+  font-size: 1.125rem;
+}

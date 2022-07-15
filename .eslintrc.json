@@ -18,6 +18,7 @@
     }
   ],
   "rules": {
+    "react/no-unescaped-entities": 0,
     "no-unused-vars": [1, { "args": "after-used", "argsIgnorePattern": "^_" }]
   }
 }
